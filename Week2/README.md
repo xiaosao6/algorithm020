@@ -29,7 +29,8 @@
 **常考题型：**
 
 [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)  
-[两数之和](https://leetcode-cn.com/problems/two-sum/description/)
+[两数之和](https://leetcode-cn.com/problems/two-sum/description/)  
+[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 
 ----
 
@@ -70,6 +71,7 @@ N叉树的 前序/中序/后序/层序遍历
 [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  
 [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
 [N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)  
+[N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)  
 [N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)  
 
 ----
@@ -91,7 +93,9 @@ PS: 根节点最大的叫大顶堆, 根节点最小的叫小顶堆.
 **常考题型：**
 
 [topK 问题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)  
-[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)  
+[丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)  
+[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)  
 
 ----
 
